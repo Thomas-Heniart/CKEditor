@@ -1,0 +1,14 @@
+{
+	"category" : "BaselineOfCKEditor",
+	"classinstvars" : [
+		 ],
+	"classvars" : [
+		 ],
+	"commentStamp" : "ThomasHeniart 7/20/2016 15:01",
+	"instvars" : [
+		 ],
+	"name" : "BaselineOfCKEditor",
+	"pools" : [
+		 ],
+	"super" : "BaselineOf",
+	"type" : "normal" }
