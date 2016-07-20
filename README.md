@@ -23,6 +23,11 @@ Metacello new
 ```
 
 # How to use CKEditor
+
+### Update  YourApplication>>#updateRoot: anHtml
+```smalltalk
+anHtmlRoot script url: (WAUrl absolute: 'http://cdn.ckeditor.com/4.5.9/basic/ckeditor.js')
+```
 ```smalltalk
 | ckeWidget |
 ckeWidget := CKEditorWidget new.
