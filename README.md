@@ -33,7 +33,7 @@ html form
 ```
 With this code, the content of CKEditor will be save in **htmlString** instance variable.
 
-**To set the content of ckeditor, use the following instructions**
+### To set the content of ckeditor, use the following instructions
 ```smalltalk
 ckeWidget value: '<p>html content</p>'.
 ```
