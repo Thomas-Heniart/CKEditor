@@ -1,0 +1,15 @@
+{
+	"category" : "CKEditor",
+	"classinstvars" : [
+		 ],
+	"classvars" : [
+		 ],
+	"commentStamp" : "ThomasHeniart 7/20/2016 14:25",
+	"instvars" : [
+		"id",
+		"value" ],
+	"name" : "CKEditorWidget",
+	"pools" : [
+		 ],
+	"super" : "WAComponent",
+	"type" : "normal" }

@@ -1,0 +1,1 @@
+I am an example of how CKEditorWidget should be used
