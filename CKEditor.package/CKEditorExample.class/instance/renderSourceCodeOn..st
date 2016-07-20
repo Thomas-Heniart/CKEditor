@@ -6,8 +6,7 @@ renderSourceCodeOn: html
 	html
 		heading: 'Smalltalk source code';
 		horizontalRule.
-	html
-		preformatted: [ html "textArea
-				readonly: true;
-				style: 'width: 100%; height: 400px';"
-				text: (self class methodNamed: #renderExampleOn:) sourceCode ]
+	html textArea
+		readonly: true;
+		style: 'width: 100%; height: 400px; font-size: 14px;';
+		with: (self class methodNamed: #renderExampleOn:) sourceCode

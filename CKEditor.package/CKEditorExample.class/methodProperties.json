@@ -1,11 +1,11 @@
 {
 	"class" : {
 		"canBeRoot" : "ThomasHeniart 7/20/2016 14:22",
-		"register" : "ThomasHeniart 7/20/2016 14:28" },
+		"register" : "ThomasHeniart 7/20/2016 15:20" },
 	"instance" : {
 		"htmlString:" : "ThomasHeniart 7/20/2016 14:34",
 		"initialize" : "ThomasHeniart 7/20/2016 14:29",
-		"renderContentOn:" : "ThomasHeniart 7/20/2016 14:32",
+		"renderContentOn:" : "ThomasHeniart 7/20/2016 15:22",
 		"renderExampleOn:" : "ThomasHeniart 7/20/2016 14:47",
-		"renderSourceCodeOn:" : "ThomasHeniart 7/20/2016 14:35",
+		"renderSourceCodeOn:" : "ThomasHeniart 7/20/2016 15:28",
 		"updateRoot:" : "ThomasHeniart 7/20/2016 14:28" } }
